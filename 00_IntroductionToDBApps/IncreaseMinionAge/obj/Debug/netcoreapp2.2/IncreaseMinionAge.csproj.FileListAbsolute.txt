@@ -1,0 +1,11 @@
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\bin\Debug\netcoreapp2.2\IncreaseMinionAge.deps.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\bin\Debug\netcoreapp2.2\IncreaseMinionAge.runtimeconfig.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\bin\Debug\netcoreapp2.2\IncreaseMinionAge.runtimeconfig.dev.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\bin\Debug\netcoreapp2.2\IncreaseMinionAge.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\obj\Debug\netcoreapp2.2\IncreaseMinionAge.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\obj\Debug\netcoreapp2.2\IncreaseMinionAge.AssemblyInfoInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\obj\Debug\netcoreapp2.2\IncreaseMinionAge.AssemblyInfo.cs
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\bin\Debug\netcoreapp2.2\IncreaseMinionAge.pdb
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\obj\Debug\netcoreapp2.2\IncreaseMinionAge.csprojAssemblyReference.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\obj\Debug\netcoreapp2.2\IncreaseMinionAge.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseMinionAge\obj\Debug\netcoreapp2.2\IncreaseMinionAge.pdb

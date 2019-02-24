@@ -1,0 +1,11 @@
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\bin\Debug\netcoreapp2.2\MinionsNames.deps.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\bin\Debug\netcoreapp2.2\MinionsNames.runtimeconfig.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\bin\Debug\netcoreapp2.2\MinionsNames.runtimeconfig.dev.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\bin\Debug\netcoreapp2.2\MinionsNames.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.AssemblyInfoInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.AssemblyInfo.cs
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\bin\Debug\netcoreapp2.2\MinionsNames.pdb
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.csprojAssemblyReference.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\MinionsNames\obj\Debug\netcoreapp2.2\MinionsNames.pdb

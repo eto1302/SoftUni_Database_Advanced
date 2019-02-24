@@ -1,0 +1,11 @@
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\netcoreapp2.2\InitialSetup.deps.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\netcoreapp2.2\InitialSetup.runtimeconfig.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\netcoreapp2.2\InitialSetup.runtimeconfig.dev.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\netcoreapp2.2\InitialSetup.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\netcoreapp2.2\InitialSetup.pdb
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\obj\Debug\netcoreapp2.2\InitialSetup.csprojAssemblyReference.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\obj\Debug\netcoreapp2.2\InitialSetup.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\obj\Debug\netcoreapp2.2\InitialSetup.AssemblyInfoInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\obj\Debug\netcoreapp2.2\InitialSetup.AssemblyInfo.cs
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\obj\Debug\netcoreapp2.2\InitialSetup.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IntroductionToDBApps\obj\Debug\netcoreapp2.2\InitialSetup.pdb

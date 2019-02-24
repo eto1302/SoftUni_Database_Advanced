@@ -1,0 +1,11 @@
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\bin\Debug\netcoreapp2.2\VillainNames.deps.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\bin\Debug\netcoreapp2.2\VillainNames.runtimeconfig.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\bin\Debug\netcoreapp2.2\VillainNames.runtimeconfig.dev.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\bin\Debug\netcoreapp2.2\VillainNames.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\obj\Debug\netcoreapp2.2\VillainNames.csprojAssemblyReference.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\obj\Debug\netcoreapp2.2\VillainNames.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\obj\Debug\netcoreapp2.2\VillainNames.AssemblyInfoInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\obj\Debug\netcoreapp2.2\VillainNames.AssemblyInfo.cs
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\bin\Debug\netcoreapp2.2\VillainNames.pdb
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\obj\Debug\netcoreapp2.2\VillainNames.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\VillainNames\obj\Debug\netcoreapp2.2\VillainNames.pdb

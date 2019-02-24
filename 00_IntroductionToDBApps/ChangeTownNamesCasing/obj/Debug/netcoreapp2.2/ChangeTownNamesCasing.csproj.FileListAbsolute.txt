@@ -1,0 +1,11 @@
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\bin\Debug\netcoreapp2.2\ChangeTownNamesCasing.deps.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\bin\Debug\netcoreapp2.2\ChangeTownNamesCasing.runtimeconfig.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\bin\Debug\netcoreapp2.2\ChangeTownNamesCasing.runtimeconfig.dev.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\bin\Debug\netcoreapp2.2\ChangeTownNamesCasing.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\obj\Debug\netcoreapp2.2\ChangeTownNamesCasing.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\obj\Debug\netcoreapp2.2\ChangeTownNamesCasing.AssemblyInfoInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\obj\Debug\netcoreapp2.2\ChangeTownNamesCasing.AssemblyInfo.cs
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\bin\Debug\netcoreapp2.2\ChangeTownNamesCasing.pdb
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\obj\Debug\netcoreapp2.2\ChangeTownNamesCasing.csprojAssemblyReference.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\obj\Debug\netcoreapp2.2\ChangeTownNamesCasing.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\ChangeTownNamesCasing\obj\Debug\netcoreapp2.2\ChangeTownNamesCasing.pdb

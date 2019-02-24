@@ -1,0 +1,10 @@
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseAgeStoredProcedure\bin\Debug\netcoreapp2.2\IncreaseAgeStoredProcedure.deps.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseAgeStoredProcedure\bin\Debug\netcoreapp2.2\IncreaseAgeStoredProcedure.runtimeconfig.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseAgeStoredProcedure\bin\Debug\netcoreapp2.2\IncreaseAgeStoredProcedure.runtimeconfig.dev.json
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseAgeStoredProcedure\bin\Debug\netcoreapp2.2\IncreaseAgeStoredProcedure.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseAgeStoredProcedure\obj\Debug\netcoreapp2.2\IncreaseAgeStoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseAgeStoredProcedure\obj\Debug\netcoreapp2.2\IncreaseAgeStoredProcedure.AssemblyInfoInputs.cache
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseAgeStoredProcedure\obj\Debug\netcoreapp2.2\IncreaseAgeStoredProcedure.AssemblyInfo.cs
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseAgeStoredProcedure\bin\Debug\netcoreapp2.2\IncreaseAgeStoredProcedure.pdb
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseAgeStoredProcedure\obj\Debug\netcoreapp2.2\IncreaseAgeStoredProcedure.dll
+C:\Users\vikmar\source\repos\IntroductionToDBApps\IncreaseAgeStoredProcedure\obj\Debug\netcoreapp2.2\IncreaseAgeStoredProcedure.pdb
