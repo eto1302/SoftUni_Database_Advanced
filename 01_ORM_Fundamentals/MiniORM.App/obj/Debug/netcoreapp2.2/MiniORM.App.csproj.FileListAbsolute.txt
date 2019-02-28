@@ -1,0 +1,14 @@
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.2\MiniORM.App.deps.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.2\MiniORM.App.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.2\MiniORM.App.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.2\MiniORM.App.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.2\MiniORM.App.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.2\MiniORM.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\bin\Debug\netcoreapp2.2\MiniORM.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.2\MiniORM.App.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.2\MiniORM.App.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.2\MiniORM.App.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.2\MiniORM.App.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.2\MiniORM.App.csproj.CopyComplete
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.2\MiniORM.App.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\01_ORM_Fundamentals\MiniORM.App\obj\Debug\netcoreapp2.2\MiniORM.App.pdb
