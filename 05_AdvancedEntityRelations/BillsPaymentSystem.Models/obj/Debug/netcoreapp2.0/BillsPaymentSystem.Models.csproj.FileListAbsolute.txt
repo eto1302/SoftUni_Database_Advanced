@@ -1,0 +1,11 @@
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Models.deps.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Models.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Models.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Models.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Models.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Models.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Models.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Models.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Models.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Models\obj\Debug\netcoreapp2.0\BillsPaymentSystem.Models.pdb

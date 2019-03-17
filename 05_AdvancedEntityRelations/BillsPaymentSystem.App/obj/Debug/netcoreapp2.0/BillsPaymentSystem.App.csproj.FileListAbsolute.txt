@@ -1,0 +1,16 @@
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.App.deps.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.App.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.App.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.App.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.App.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Models.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Data.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\BillsPaymentSystem.Models.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.csproj.CopyComplete
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\BillsPaymentSystem.App.pdb

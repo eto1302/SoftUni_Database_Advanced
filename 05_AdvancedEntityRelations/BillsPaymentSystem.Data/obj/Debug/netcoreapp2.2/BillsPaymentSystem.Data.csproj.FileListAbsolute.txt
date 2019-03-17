@@ -1,0 +1,6 @@
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.2\BillsPaymentSystem.Data.deps.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.2\BillsPaymentSystem.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.2\BillsPaymentSystem.Data.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.2\BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.2\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\05_AdvancedEntityRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.2\BillsPaymentSystem.Data.AssemblyInfo.cs
