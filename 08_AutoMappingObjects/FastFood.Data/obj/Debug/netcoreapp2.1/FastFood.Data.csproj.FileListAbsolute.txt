@@ -1,0 +1,14 @@
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Users\vikmar\Desktop\SoftUni\Databases\SoftUni_Database_Advanced\08_AutoMappingObjects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb
