@@ -1,0 +1,4 @@
+C:\Users\vikmar\Desktop\JSON-exercise\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\JSON-exercise\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\JSON-exercise\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\JSON-exercise\Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
